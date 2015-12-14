@@ -1,6 +1,6 @@
 {
   "name": "nail-polish",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Remove individual files ",
   "main": "index.js",
   "scripts": {
